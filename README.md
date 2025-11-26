@@ -30,7 +30,7 @@ If you would like to run this on your own you can simply run the script to build
 
 ## Design
 
-'''mermaid
+```mermaid
 erDiagram
     
     BANK ||--o{ ACCOUNT: ""
@@ -72,7 +72,7 @@ erDiagram
 
 
 
-'''
+```
 
 ## Implementation
 
